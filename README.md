@@ -87,7 +87,6 @@ O servidor iniciará na porta: 3000🚪 - acesse <http://localhost:3000>
 | `id`      | `string` | **Obrigatório**. Id do usuário a ser atualizado |
 | `firstName`      | `string`   | **Obrigatório**. Nome do usuário    |
 | `lastName`      | `string`   | **Obrigatório**. Sobrenome do usuário    |
-| `email`     | `string`   | **Obrigatório**. Email do usuário   |
 | `password`  | `string`   | **Obrigatório**. Senha do usuário   |
 
 ## Stack utilizada
