@@ -27,7 +27,7 @@ const main = async () => {
         res.status(statusCode).send(body);
     });
 
-    app.post("/users", async (req, res) => {
+    app.post("/users/create", async (req, res) => {
         const mongoCreateUserRepository = new MongoCreateUserRepository();
         const createUserController = new CreateUserController(
             mongoCreateUserRepository
