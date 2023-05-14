@@ -6,7 +6,7 @@ import { MongoGetUsersRepository } from "./repositories/getUsers/mongoGetUsers";
 import { MongoClient } from "./database/mongo";
 import { MongoCreateUserRepository } from "./repositories/createUser/mongoCreateUser";
 import { CreateUserController } from "./controllers/createUser/createuser";
-import { MongoUpdateUserRepository } from "./repositories/updateUsers/mongoUpdateUser";
+import { MongoUpdateUserRepository } from "./repositories/updateUser/mongoUpdateUser";
 import { UpdateUserController } from "./controllers/updateUser/updateUser";
 
 const main = async () => {
