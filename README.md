@@ -89,6 +89,10 @@ O servidor iniciará na porta: 3000🚪 - acesse <http://localhost:3000>
 | `lastName`      | `string`   | **Obrigatório**. Sobrenome do usuário    |
 | `password`  | `string`   | **Obrigatório**. Senha do usuário   |
 
+##Testes no Insomnia
+
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=API%20typescript%20and%20mongoDB&uri=https%3A%2F%2Fraw.githubusercontent.com%2FChaicoo%2FAPI-typescript-mongoDB%2Fmain%2FInsomnia_2023-05-14.json)
+
 ## Stack utilizada
 
 * [TypeScript](https://www.typescriptlang.org/)
