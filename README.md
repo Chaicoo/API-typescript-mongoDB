@@ -94,12 +94,6 @@ O servidor iniciará na porta: 3000🚪 - acesse <http://localhost:3000>
 
 ## Stack utilizada
 
-* NodeJs
-* TypeScript
-* MongoDB
-
-## Links uteis
-
 * [TypeScript](https://www.typescriptlang.org/)
 * [NodeJs](https://nodejs.org/en/)
 * [MongoDB](https://www.mongodb.com/)
