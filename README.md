@@ -90,8 +90,6 @@ O servidor iniciará na porta: 3000🚪 - acesse <http://localhost:3000>
 | `email`     | `string`   | **Obrigatório**. Email do usuário   |
 | `password`  | `string`   | **Obrigatório**. Senha do usuário   |
 
-| `api_key` | `string` | **Obrigatório**. A chave da sua API |
-
 ## Stack utilizada
 
 * [TypeScript](https://www.typescriptlang.org/)
